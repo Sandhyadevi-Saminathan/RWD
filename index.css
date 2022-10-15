@@ -1,0 +1,31 @@
+.list-group-item
+{
+    background-color: lightgray;
+    
+}
+.card-text
+{
+    font-size: larger;
+}
+.card-body1
+{
+    font-size: larger;
+}
+li{
+    list-style-type:square;
+    font-size: larger;
+}
+.box
+{
+    
+    margin-left: 150px;
+    margin-right: 150px;
+}
+p
+{
+    padding-top:0.5em;
+    padding-left:1em;
+}
+
+
+  
